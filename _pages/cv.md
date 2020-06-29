@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Technology, University of Science and Technology of China, 2011 - 2015
+* M.S. in Computer Science, Temple University, 21014 - 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bossa Nova Robotics - Software Developer - Feb.2020 -> Present 
+  * Develop cloud service applications to support different ML use cases for robots.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* PNC Financial Services - Senior Software Developer - Feb.2018 -> Feb.2020
+  * Designed and develop system architecture of model execution pipeline using python which setup centralize framework for model development.
+  * Work with internal clients to build visualization solution to provide 360 degrees view of the risk from model results.
+
+* PNC Financial Services - Software Developer - June.2016 -> Feb.2018
+  * Quantitative analysis and model development for residential compensatory fee model using python.
+  * Prototyped pyspark computing engine for CECL credit loss models.
+  * Built Java/Spring Framework backend for web model execution platform.
   
+* Innovation Center, Christian Care Health System - Software Developer Intern - Jan.2016 -> June.2016
+  * Built interactive website to visualize the nationwide u activity in timeline by using ASP.NET Framework and CDC influenza data API.
+
+* Urban Apps and Maps Studio, Temple University - Mentor and Software Developer - Jun.2015 -> Jan.2016
+  * Mentored 10 high school students to develop their coding skills and built a campus security Android app.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, Java, C#
+* Technology: Git, Elasticsearch, Spark/Hadoop, Linux, Agile
+* Open source Contributions: Pandas, Dask, Numpy, Matplotlib
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
